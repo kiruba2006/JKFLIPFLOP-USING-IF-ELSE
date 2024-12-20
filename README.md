@@ -69,9 +69,11 @@ Developed by: Kiruba RC RegisterNumber:24900445
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-12-03 171039](https://github.com/user-attachments/assets/082b6279-f011-4db7-8859-454376c52e0a)
+![Screenshot 2024-12-20 103002](https://github.com/user-attachments/assets/e78ebc11-7119-4f73-9960-d98d16498183)
+
 
 
 **RESULTS**
+
 Implemented JK flipflop using verilog and validating their functionality using their functional tables
 
